@@ -238,10 +238,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [AWS SDK](https://aws.amazon.com/sdk-for-javascript/) - AWS integration
 - [Lucide Icons](https://lucide.dev/) - Beautiful icons
 
-## 📞 Support
-
-For support, email your-email@example.com or create an issue in this repository.
-
----
-
-**Made with ❤️ using Next.js and AWS S3**
